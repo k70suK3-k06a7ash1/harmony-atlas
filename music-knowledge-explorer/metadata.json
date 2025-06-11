@@ -1,0 +1,5 @@
+{
+  "name": "Music Knowledge Explorer",
+  "description": "An interactive web application to explore music information, discover songs, and manage playlists, powered by AI insights.",
+  "requestFramePermissions": []
+}
